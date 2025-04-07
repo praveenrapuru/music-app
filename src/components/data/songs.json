@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Viva La Vida",
+    "artistName": "Coldplay",
+    "thumbnail": "./viva_la_vida.jpeg",
+    "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "duration": "07:05"
+  },
+  {
+    "title": "Demons",
+    "artistName": "Imagine Dragons",
+    "thumbnail": "./demons.jpeg",
+    "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "duration": "06:12"
+  },
+  {
+    "title": "Ghost Stories",
+    "artistName": "Coldplay",
+    "thumbnail": "./ghost_stories.jpeg",
+    "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "duration": "06:12"
+  },
+  {
+    "title": "Believer",
+    "artistName": "Imagine Dragons",
+    "thumbnail": "./believer.jpeg",
+    "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "duration": "05:10"
+  },
+  {
+    "title": "Counting Stars",
+    "artistName": "OneRepublic",
+    "thumbnail": "./counting_stars.jpeg",
+    "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "duration": "04:50"
+  },
+  {
+    "title": "Hymn for the Weekend",
+    "artistName": "Coldplay",
+    "thumbnail": "./hymn_for_the_weekend.jpeg",
+    "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "duration": "04:05"
+  },
+  {
+    "title": "Radioactive",
+    "artistName": "Imagine Dragons",
+    "thumbnail": "./radioactive.jpeg",
+    "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "duration": "03:45"
+  },
+  {
+    "title": "Paradise",
+    "artistName": "Coldplay",
+    "thumbnail": "./paradise.jpeg",
+    "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    "duration": "05:38"
+  },
+  {
+    "title": "Thunder",
+    "artistName": "Imagine Dragons",
+    "thumbnail": "./thunder.jpeg",
+    "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "duration": "03:50"
+  },
+  {
+    "title": "Sky Full of Stars",
+    "artistName": "Coldplay",
+    "thumbnail": "./sky_full_of_stars.jpeg",
+    "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+    "duration": "04:28"
+  }
+]
+
